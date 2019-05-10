@@ -16,6 +16,8 @@ Based on
 
 # Requirements
 
+g++
+ImageMagick
 CImg library
 
 # How to run
